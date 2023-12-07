@@ -5,9 +5,11 @@
   "repository": "https://github.com/adammmusial/website.git",
   "author": "adammmusial <musialadam83@gmail.com>",
   "license": "MIT",
-  "scripts" :{
-    "start": "node index.html"
-  
+  "scripts": {
+    "start": "node index.html",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
   }
 }
-
