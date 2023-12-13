@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/adammmusial/website/compare/v1.1.0...v1.1.1) (2023-12-13)
+
+
+### Bug Fixes
+
+* add missing divs for each city ([20a04c0](https://github.com/adammmusial/website/commit/20a04c0e2d2e614c0ded280b0c85ba638af09082))
+
 ## 1.1.0 (2023-12-13)
 
 
