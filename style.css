@@ -89,4 +89,46 @@ h1 {
     font-weight: bold;
 }
 
+.hero-image {
+    width: 500px;
+    height: 350px;
+
+}
+
+/* content part */
+
+
+.second-container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+    font-size: 36x;
+    font-weight: bold;
+    color: #1F2937;
+    font-family: "Roboto","Arial";
+}
+
+.second-container-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.second-container-content p {
+    font-family: "Roboto","Arial";
+    opacity: 0.7;
+    text-align: center;
+}
+
+.second-container-content img {
+    border: 4px solid #3882F6;
+    border-radius: 15px;
+    margin: 5px 20px 0px 20px;
+    flex: auto;
+}
+
 
