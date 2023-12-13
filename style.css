@@ -35,13 +35,13 @@
     
 }
 
-a {
+.right-links a {
     text-decoration: none;
     color: black;
     outline: 0;
   }
 
-ul {
+.right-links li {
     list-style-type: none;
   }
 /* hero part */
